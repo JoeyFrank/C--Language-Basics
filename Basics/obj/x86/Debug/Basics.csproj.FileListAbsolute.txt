@@ -1,0 +1,5 @@
+/Users/Joey/Education/S6-College/Object-Oriented-Design/CSLanguageBasics/Basics/Basics/bin/Debug/Basics.exe
+/Users/Joey/Education/S6-College/Object-Oriented-Design/CSLanguageBasics/Basics/Basics/bin/Debug/Basics.pdb
+/Users/Joey/Education/S6-College/Object-Oriented-Design/CSLanguageBasics/Basics/Basics/obj/x86/Debug/Basics.csproj.CoreCompileInputs.cache
+/Users/Joey/Education/S6-College/Object-Oriented-Design/CSLanguageBasics/Basics/Basics/obj/x86/Debug/Basics.exe
+/Users/Joey/Education/S6-College/Object-Oriented-Design/CSLanguageBasics/Basics/Basics/obj/x86/Debug/Basics.pdb
